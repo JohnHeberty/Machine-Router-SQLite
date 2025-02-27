@@ -1,0 +1,2 @@
+## Donwload [.OSM.PBF] - shape to router >> https://download.geofabrik.de/south-america/brazil.html
+	And rename file to >> protobuf.osm.pbf

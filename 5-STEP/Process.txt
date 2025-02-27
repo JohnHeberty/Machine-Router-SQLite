@@ -1,0 +1,5 @@
+Run spatialite_gui aplication in /1-STEP/spatialite_gui/spatialite_gui.exe
+
+Connect to DB in /3-STEP/MyDBRouter.sqlite
+
+Run Querys in /5-STEP/Querys/*.sql
