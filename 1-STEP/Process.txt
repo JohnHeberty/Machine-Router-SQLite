@@ -1,0 +1,8 @@
+## Download spatialite_gui to build VirtualRouter [latest version supporting spatialite GUI]	>> https://www.gaia-gis.it/gaia-sins/
+	And rename Folder to > spatialite_gui
+	
+## Download spatialite-tools to build VirtualRouter [latest version supporting spatialite GUI]	>> https://www.gaia-gis.it/gaia-sins/
+	And rename Folder to > spatialite-tools
+
+## Download spatialite-loadable-modules to build VirtualRouter [latest version supporting spatialite GUI]  >> https://www.gaia-gis.it/gaia-sins/
+	And rename Folder to > spatialite-loadable-modules
